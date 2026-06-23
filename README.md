@@ -23,6 +23,7 @@ Quiz App is an Android application developed using Java and Android Studio. The 
 <img width="720" height="1612" alt="WhatsApp Image 2026-06-21 at 9 42 02 PM (2)" src="https://github.com/user-attachments/assets/3e5a898d-9c2a-41cd-8ec5-2d2c8a856ff4" />
 <img width="714" height="1599" alt="WhatsApp Image 2026-06-21 at 9 42 03 PM" src="https://github.com/user-attachments/assets/c8f3d024-9e2e-42e7-8267-23a3154fa76c" />
 <img width="720" height="1612" alt="WhatsApp Image 2026-06-21 at 9 42 03 PM (1)" src="https://github.com/user-attachments/assets/5371638a-25e6-4f80-abee-250a991ea458" />
+
 ## How to Run
 1. Download the project.
 2. Open it in Android Studio.
